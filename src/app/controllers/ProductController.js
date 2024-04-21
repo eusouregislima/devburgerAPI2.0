@@ -1,3 +1,5 @@
+/* eslint-disable camelcase */
+/* eslint-disable class-methods-use-this */
 import * as Yup from 'yup';
 import Product from '../models/Product';
 import Category from '../models/Category';

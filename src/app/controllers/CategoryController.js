@@ -1,3 +1,4 @@
+/* eslint-disable class-methods-use-this */
 import * as Yup from 'yup';
 import Category from '../models/Category';
 import User from '../models/User';

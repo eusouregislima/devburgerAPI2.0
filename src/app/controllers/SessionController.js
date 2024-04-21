@@ -1,3 +1,4 @@
+/* eslint-disable class-methods-use-this */
 import * as Yup from 'yup';
 import jwt from 'jsonwebtoken';
 import User from '../models/User';
